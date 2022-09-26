@@ -1,5 +1,9 @@
 ## Hi, I'm [Vineeth][website] 👋
 
-I am a Software Engineer and I love to learn new things! I am currently doing an online cybersecurity course at Stanford & learning to write some idiomatic Rust code!
+### A Little Bit About Me 📎
+- Software Engineer by day & gamer by night.
+- Love to learn new technologies/frameworks.
+- Primarily a Go developer; Learning how to write some Rust!
+- If I start talking about anime/video games, I probably won't stop.
 
 [website]: https://www.linkedin.com/in/vinitlaks/
