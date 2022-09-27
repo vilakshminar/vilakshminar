@@ -2,7 +2,7 @@
 
 ### A Little Bit About Me 📎
 - Software Engineer by day & gamer by night.
-- Love to learn new technologies & frameworks.
+- I love to learn new technologies & frameworks.
 - Primarily a Go developer; Learning how to write some Rust!
 - If I start talking about anime and/or video games, I probably won't stop.
 
