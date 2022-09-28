@@ -9,6 +9,11 @@
 ### Github Stats ![Vineeth's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=vilakshminar&theme=xcode)
 <p align = "center">
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=vilakshminar&theme=dark&hide_border=true">
 </p>
