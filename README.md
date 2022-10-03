@@ -17,7 +17,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
     <thead>
         <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=vilakshminar&show_icons=true&locale=en&theme=tokyonight" alt="Vineeth's GitHub Stats" /></td>
+            <td><img src="https://github-readme-stats.vercel.app/api?username=vilakshminar&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="Vineeth's GitHub Stats" /></td>
             <td><img src = "https://github-readme-streak-stats.herokuapp.com?user=vilakshminar&theme=tokyonight&hide_border=true"></td>
         </tr>
     </thead>
