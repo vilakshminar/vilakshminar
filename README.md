@@ -13,9 +13,10 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 </p>
 
-### Github Stats ![Vineeth's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=vilakshminar&theme=xcode)
+### Github Stats ![Vineeth's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=vilakshminar&theme=tokyo-night)
 <p align = "center">
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=vilakshminar&theme=dark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=vilakshminar&show_icons=true&locale=en&theme=tokyonight" alt="Vineeth's GitHub Stats" />
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=vilakshminar&theme=tokyonight&hide_border=true">
 </p>
 
 [website]: https://www.linkedin.com/in/vinitlaks/
