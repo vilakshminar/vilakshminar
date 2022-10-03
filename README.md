@@ -1,5 +1,7 @@
 ## Hi, I'm [Vineeth][website] 👋
 
+> Note: This page is a WIP!
+
 ### A Little Bit About Me 📎
 - Software Engineer by day & gamer by night.
 - I love to learn new technologies & frameworks.
