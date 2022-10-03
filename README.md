@@ -1,4 +1,4 @@
-## Hi, I'm [Vineeth][website] 👋
+## Hi, I'm [Vineeth][website] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
 
 > Note: This page is a WIP!
 
