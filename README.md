@@ -8,10 +8,23 @@
 - Primarily a Go developer; Learning how to write some Rust!
 - If I start talking about anime and/or video games, I probably won't stop.
 
-# My Skills
-<p align="left">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-</p>
+### 🌱 Currently Working On:
+<a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></a>
+<a href="https://www.gnu.org/software/bash" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a>
+<a href="https://aws.amazon.com" target="_blank"> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"/></a>
+<a href="https://grafana.com/" target="_blank"> <img height="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/></a>
+<a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a>
+<a href="https://www.docker.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></a>
+<a href="https://www.ansible.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a>
+<a href="https://letsencrypt.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg"></a>
+
+### 🌱 Languages & Tools:
+<a href="https://reactjs.org/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></a>
+<a href="https://graphql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></a>
+<a href="https://www.raspberrypi.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg"></a>
+<a href="https://grpc.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></a>
+
 
 ### Github Stats ![Vineeth's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=vilakshminar&theme=tokyo-night)
 <table align="center" border="0" cellpadding="0" cellspacing="0">
