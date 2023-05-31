@@ -28,7 +28,7 @@
 <a href="https://www.openapis.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg"></a>
 <a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
 
-### Github Stats ![Vineeth's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vilakshminar&theme=tokyo-night)
+### Github Stats ![Vineeth's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vilakshminar&theme=tokyo-night)
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
     <thead>
